@@ -1,0 +1,12 @@
+{
+  "name": "carlos-challenge-12-employee-tracker",
+  "version": "1.0.0",
+  "description": "The task for this challenge is to create a tool that uses the command line input to track employees with the use of MySQL.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
